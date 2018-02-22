@@ -1,0 +1,1 @@
+../../../Cellar/nmap/7.60/share/nmap/scripts/http-vuln-cve2017-5638.nse

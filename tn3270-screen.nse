@@ -1,0 +1,1 @@
+../../../Cellar/nmap/7.60/share/nmap/scripts/tn3270-screen.nse
